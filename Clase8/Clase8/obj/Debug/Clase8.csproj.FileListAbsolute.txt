@@ -1,0 +1,10 @@
+D:\VisualStudio\Clase8\Clase8\bin\Debug\Clase8.exe.config
+D:\VisualStudio\Clase8\Clase8\bin\Debug\Clase8.exe
+D:\VisualStudio\Clase8\Clase8\bin\Debug\Clase8.pdb
+D:\VisualStudio\Clase8\Clase8\obj\Debug\Clase8.csprojAssemblyReference.cache
+D:\VisualStudio\Clase8\Clase8\obj\Debug\Clase8.Form1.resources
+D:\VisualStudio\Clase8\Clase8\obj\Debug\Clase8.Properties.Resources.resources
+D:\VisualStudio\Clase8\Clase8\obj\Debug\Clase8.csproj.GenerateResource.cache
+D:\VisualStudio\Clase8\Clase8\obj\Debug\Clase8.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase8\Clase8\obj\Debug\Clase8.exe
+D:\VisualStudio\Clase8\Clase8\obj\Debug\Clase8.pdb
