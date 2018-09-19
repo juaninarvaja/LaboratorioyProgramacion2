@@ -1,0 +1,7 @@
+D:\VisualStudio\Ejercico31\Ejercico31\bin\Debug\Ejercico31.exe.config
+D:\VisualStudio\Ejercico31\Ejercico31\bin\Debug\Ejercico31.exe
+D:\VisualStudio\Ejercico31\Ejercico31\bin\Debug\Ejercico31.pdb
+D:\VisualStudio\Ejercico31\Ejercico31\obj\Debug\Ejercico31.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercico31\Ejercico31\obj\Debug\Ejercico31.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercico31\Ejercico31\obj\Debug\Ejercico31.exe
+D:\VisualStudio\Ejercico31\Ejercico31\obj\Debug\Ejercico31.pdb
