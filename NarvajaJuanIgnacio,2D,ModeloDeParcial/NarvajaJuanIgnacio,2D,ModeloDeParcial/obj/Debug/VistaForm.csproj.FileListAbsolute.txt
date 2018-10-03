@@ -1,0 +1,9 @@
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\bin\Debug\NarvajaJuanIgnacio,2D,ModeloDeParcial.exe.config
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\bin\Debug\NarvajaJuanIgnacio,2D,ModeloDeParcial.exe
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\bin\Debug\NarvajaJuanIgnacio,2D,ModeloDeParcial.pdb
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\obj\Debug\NarvajaJuanIgnacio_2D_ModeloDeParcial.Properties.Resources.resources
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\obj\Debug\NarvajaJuanIgnacio,2D,ModeloDeParcial.exe
+D:\VisualStudio\NarvajaJuanIgnacio,2D,ModeloDeParcial\NarvajaJuanIgnacio,2D,ModeloDeParcial\obj\Debug\NarvajaJuanIgnacio,2D,ModeloDeParcial.pdb
